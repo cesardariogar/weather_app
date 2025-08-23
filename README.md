@@ -7,7 +7,7 @@ small weather app exercise (Python with FastApi)
 pip install -r requirements.txt
 
 **Start the FastAPI server**
-uvicorn app:app --reload
+uvicorn main:app --reload
 
 **Visit in your browser:**
 http://127.0.0.1:8000
